@@ -1,50 +1,50 @@
-# Gemini Spark Skills Index
+# Mục Lục Kỹ Năng Gemini Spark (Skills Index)
 
-Use this index to find the right Gemini Spark skill by workflow category.
+Sử dụng mục lục này để tra cứu nhanh kỹ năng Gemini Spark theo danh mục công việc của bạn.
 
-## 🌟 Start Here
+## 🌟 Bắt Đầu Tại Đây (Start Here)
 
-| Skill | Best For | Apps / Connectors |
+| Kỹ Năng | Phù Hợp Nhất Cho | Ứng Dụng / Connectors |
 |---|---|---|
-| [`spark-setup`](start-here/spark-setup/SKILL.md) | First-time setup | Gemini Spark settings, connected apps |
-| [`spark-shared-approval-system`](start-here/spark-shared-approval-system/SKILL.md) | Approval rules and safety | All skills |
-| [`spark-daily-brief`](start-here/spark-daily-brief/SKILL.md) | Morning planning | Gmail, Calendar, Drive, Tasks, Keep |
+| [spark-setup](start-here/spark-setup/SKILL.md) | Thiết lập và làm quen lần đầu | Cài đặt Gemini Spark, ứng dụng kết nối |
+| [spark-shared-approval-system](start-here/spark-shared-approval-system/SKILL.md) | Quy tắc an toàn & cơ chế phê duyệt | Dùng chung cho tất cả các kỹ năng |
+| [spark-daily-brief](start-here/spark-daily-brief/SKILL.md) | Lên kế hoạch buổi sáng | Gmail, Calendar, Drive, Tasks, Keep |
 
 ## 📬 Google Workspace
 
-| Skill | Best For | Apps / Connectors |
+| Kỹ Năng | Phù Hợp Nhất Cho | Ứng Dụng / Connectors |
 |---|---|---|
-| [`spark-gmail-command-center`](google-workspace/spark-gmail-command-center/SKILL.md) | Inbox summaries and reply drafts | Gmail |
-| [`spark-calendar-planner`](google-workspace/spark-calendar-planner/SKILL.md) | Planning and schedule review | Calendar |
-| [`spark-drive-organizer`](google-workspace/spark-drive-organizer/SKILL.md) | Finding and organizing files | Drive, Docs, Sheets, Slides |
-| [`spark-docs-generator`](google-workspace/spark-docs-generator/SKILL.md) | Guides, SOPs, reports, checklists | Docs, Drive |
-| [`spark-sheets-tracker`](google-workspace/spark-sheets-tracker/SKILL.md) | Trackers and dashboards | Sheets |
-| [`spark-slides-builder`](google-workspace/spark-slides-builder/SKILL.md) | Presentation outlines and decks | Slides, Docs |
-| [`spark-keep-tasks-capture`](google-workspace/spark-keep-tasks-capture/SKILL.md) | Notes and tasks | Keep, Tasks |
+| [spark-gmail-command-center](google-workspace/spark-gmail-command-center/SKILL.md) | Tóm tắt email và soạn thư trả lời | Gmail |
+| [spark-calendar-planner](google-workspace/spark-calendar-planner/SKILL.md) | Quản lý lịch và rà soát lịch họp | Calendar |
+| [spark-drive-organizer](google-workspace/spark-drive-organizer/SKILL.md) | Tìm kiếm và sắp xếp thư mục tệp tin | Drive, Docs, Sheets, Slides |
+| [spark-docs-generator](google-workspace/spark-docs-generator/SKILL.md) | Soạn cẩm nang, SOP, báo cáo, checklist | Docs, Drive |
+| [spark-sheets-tracker](google-workspace/spark-sheets-tracker/SKILL.md) | Bảng theo dõi và dashboard gọn nhẹ | Sheets |
+| [spark-slides-builder](google-workspace/spark-slides-builder/SKILL.md) | Dàn ý và phác thảo slide thuyết trình | Slides, Docs |
+| [spark-keep-tasks-capture](google-workspace/spark-keep-tasks-capture/SKILL.md) | Xử lý ghi chú và nhiệm vụ | Keep, Tasks |
 
-## 💼 Business Workflows
+## 💼 Quy Trình Doanh Nghiệp (Business Workflows)
 
-| Skill | Best For | Apps / Connectors |
+| Kỹ Năng | Phù Hợp Nhất Cho | Ứng Dụng / Connectors |
 |---|---|---|
-| [`spark-meeting-prep`](business-workflows/spark-meeting-prep/SKILL.md) | Meeting briefs | Calendar, Gmail, Docs, Drive |
-| [`spark-inbox-to-tasks`](business-workflows/spark-inbox-to-tasks/SKILL.md) | Turning emails into tasks | Gmail, Tasks, Keep |
-| [`spark-client-intake`](business-workflows/spark-client-intake/SKILL.md) | Lead and client intake | Gmail, Sheets, Docs, Calendar |
-| [`spark-receipts-invoices`](business-workflows/spark-receipts-invoices/SKILL.md) | Business admin | Gmail, Drive, Sheets, Docs |
-| [`spark-weekly-ceo-dashboard`](business-workflows/spark-weekly-ceo-dashboard/SKILL.md) | Weekly business review | Gmail, Calendar, Sheets, Tasks |
+| [spark-meeting-prep](business-workflows/spark-meeting-prep/SKILL.md) | Chuẩn bị trước và sau cuộc họp | Calendar, Gmail, Docs, Drive |
+| [spark-inbox-to-tasks](business-workflows/spark-inbox-to-tasks/SKILL.md) | Chuyển đổi email thành việc cần làm | Gmail, Tasks, Keep |
+| [spark-client-intake](business-workflows/spark-client-intake/SKILL.md) | Tiếp nhận khách hàng tiềm năng | Gmail, Sheets, Docs, Calendar |
+| [spark-receipts-invoices](business-workflows/spark-receipts-invoices/SKILL.md) | Quản lý hóa đơn, biên lai chi phí | Gmail, Drive, Sheets, Docs |
+| [spark-weekly-ceo-dashboard](business-workflows/spark-weekly-ceo-dashboard/SKILL.md) | Báo cáo tuần cho lãnh đạo | Gmail, Calendar, Sheets, Tasks |
 
-## 📣 Creator Workflows
+## 📣 Quy Trình Sáng Tạo (Creator Workflows)
 
-| Skill | Best For | Apps / Connectors |
+| Kỹ Năng | Phù Hợp Nhất Cho | Ứng Dụng / Connectors |
 |---|---|---|
-| [`spark-content-engine`](creator-workflows/spark-content-engine/SKILL.md) | Content planning | Docs, Sheets, YouTube, Canva |
-| [`spark-youtube-research`](creator-workflows/spark-youtube-research/SKILL.md) | Video and content research | YouTube, Docs, Sheets |
-| [`spark-canva-creative-brief`](creator-workflows/spark-canva-creative-brief/SKILL.md) | Design briefs | Canva, Docs |
-| [`spark-photos-asset-finder`](creator-workflows/spark-photos-asset-finder/SKILL.md) | Visual asset organization | Google Photos, Drive |
+| [spark-content-engine](creator-workflows/spark-content-engine/SKILL.md) | Lập kế hoạch và sản xuất nội dung | Docs, Sheets, YouTube, Canva |
+| [spark-youtube-research](creator-workflows/spark-youtube-research/SKILL.md) | Nghiên cứu chủ đề video YouTube | YouTube, Docs, Sheets |
+| [spark-canva-creative-brief](creator-workflows/spark-canva-creative-brief/SKILL.md) | Viết brief yêu cầu thiết kế | Canva, Docs |
+| [spark-photos-asset-finder](creator-workflows/spark-photos-asset-finder/SKILL.md) | Tìm kiếm và tổ chức hình ảnh | Google Photos, Drive |
 
-## 🔎 Research + Builder
+## 🔎 Nghiên Cứu & Phát Triển (Research + Builder)
 
-| Skill | Best For | Apps / Connectors |
+| Kỹ Năng | Phù Hợp Nhất Cho | Ứng Dụng / Connectors |
 |---|---|---|
-| [`spark-research-brief`](research-builder/spark-research-brief/SKILL.md) | Research summaries | Search, Docs, Drive |
-| [`spark-maps-trip-planner`](research-builder/spark-maps-trip-planner/SKILL.md) | Travel and local planning | Maps, Calendar, Docs |
-| [`spark-github-repo-analyst`](research-builder/spark-github-repo-analyst/SKILL.md) | Repo analysis | GitHub, Docs |
+| [spark-research-brief](research-builder/spark-research-brief/SKILL.md) | Tóm tắt tài liệu và báo cáo nghiên cứu | Search, Docs, Drive |
+| [spark-maps-trip-planner](research-builder/spark-maps-trip-planner/SKILL.md) | Lên lịch trình công tác, du lịch | Maps, Calendar, Docs |
+| [spark-github-repo-analyst](research-builder/spark-github-repo-analyst/SKILL.md) | Phân tích kho mã nguồn GitHub | GitHub, Docs |
