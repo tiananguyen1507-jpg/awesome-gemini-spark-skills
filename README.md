@@ -89,6 +89,7 @@ skills/start-here/spark-daily-brief/SKILL.md
 | Kỹ Năng | Công Dụng Chính |
 |---|---|
 | [spark-meeting-prep](skills/business-workflows/spark-meeting-prep/SKILL.md) | Tóm tắt trước cuộc họp, nghị trình (agenda), thông tin người tham dự và nháp biên bản |
+| [spark-email-crm-copilot](skills/business-workflows/spark-email-crm-copilot/SKILL.md) | Quét email, phân loại tag, tra cứu Google Sheets CRM, soạn thư nháp và cập nhật tiến độ khách hàng |
 | [spark-inbox-to-tasks](skills/business-workflows/spark-inbox-to-tasks/SKILL.md) | Chuyển đổi email thành các đầu việc có thứ tự ưu tiên |
 | [spark-client-intake](skills/business-workflows/spark-client-intake/SKILL.md) | Tiếp nhận thông tin khách hàng tiềm năng, ghi chú hồ sơ và nháp bước chăm sóc tiếp theo |
 | [spark-receipts-invoices](skills/business-workflows/spark-receipts-invoices/SKILL.md) | Sắp xếp hóa đơn, biên lai chi phí, theo dõi hạn thanh toán |
