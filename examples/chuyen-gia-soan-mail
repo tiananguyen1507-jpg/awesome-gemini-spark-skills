@@ -1,5 +1,5 @@
 ---
-name: spark-credit-dispute-email
+name: chuyen-gia-soan-mail
 description: Analyze dispute emails, identify unresolved issues, and draft concise responses for credit cards, loans, debt collection, CIC, reconciliation, and personal data complaints.
 ---
 
