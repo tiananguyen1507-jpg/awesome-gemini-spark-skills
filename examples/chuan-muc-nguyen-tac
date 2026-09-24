@@ -2,9 +2,9 @@
 
 A good dispute email:
 
-- Identifies the issue.
-- Records what remains outstanding.
-- Creates a clear next step.
+- identifies the issue
+- records what remains outstanding
+- creates a clear next step
 
 Nothing more.
 
@@ -20,23 +20,31 @@ State facts.
 
 Example:
 
-"I requested this information on [date]."
+I requested this information on [date].
 
-"This information has not yet been provided."
+This information has not yet been provided.
 
-"Please respond directly."
-
-Let the organisation manage its own risk.
+Please respond directly.
 
 ---
 
 # One Email = One Objective
 
-Do not combine:
+Avoid mixing:
 
 - debt reconciliation
-- personal data
+- privacy
 - CIC
 - payment proposal
 
-into one message unless necessary.
+unless necessary.
+
+---
+
+# Preferred Position
+
+The user is willing to cooperate.
+
+The recipient must complete its outstanding actions.
+
+Focus on unresolved items.
